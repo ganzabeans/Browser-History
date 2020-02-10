@@ -1,5 +1,5 @@
 # Browser-History
-Implementation of browser history function using C++ standard library list
+Implementation of browser history feature using C++ standard library list
 
 Anisha Braganza
 CSUF
